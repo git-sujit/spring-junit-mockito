@@ -1,2 +1,2 @@
-# spring-junit-mockito
+# spring-mockito
 Junit &amp; Mockito demo
